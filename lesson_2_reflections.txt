@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git creates a new folder called .git, this folder would be used to store metainformation about the changes in the current folder. you nit to do this so git knows you want it to start a version control in that expecifit folder
+
